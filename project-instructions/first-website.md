@@ -304,6 +304,7 @@ We're going to create `<div>` tags to group our content together. What is the di
 
   ```
   </details>
+  ```
 
 #
 
@@ -663,7 +664,7 @@ We now have a fairly plain website but it's a website! Let's add some style. Her
 > | id    | [id=portfolio] { ... }       | #portfolio { ... }    |
 >
 > </details>
-> <br> 
+> <br>
 
 #
 
