@@ -69,7 +69,7 @@ h2, h3 {
 
   /* portfolio styles */
   .content h1 {
-    color: black;
+    color: rgb(255, 254, 254);
 }
 
 #portfolio {
@@ -78,7 +78,7 @@ h2, h3 {
 }
 
 #portfolio li {
-    background: #fff;
+    background: rgb(241, 241, 241);
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
