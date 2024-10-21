@@ -110,8 +110,19 @@
 				positiony = 0;
 				points = points + 1;
 				changeBoxText(points);
-				speed = speed + 1
-				speedy = speedy + 1
+				if (speed > 0){
+					speed = speed + 1
+				}
+				else{
+					speed = speed - 1
+				}
+				if (speed > 0){
+					speedy = speedy + 1
+				}
+				else{
+					speedy = speedy - 1
+				}
+				
 			};
 
 
