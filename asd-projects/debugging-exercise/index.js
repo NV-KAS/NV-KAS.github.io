@@ -159,7 +159,7 @@ function bounceGhost(ghost) {
 
 // this redraws the ghost's position on the screen
 function updateGhostOnScreen(ghost) {
-  maxGhosts = ghost;
+  maxGhosts = 10;
 
   // these lines redraw the ghost's position
   $(ghost.id).css("left", ghost.x);
